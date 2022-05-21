@@ -6,8 +6,12 @@ using UnityEngine.SceneManagement;
 
 public class MainManager : MonoBehaviour
 {
-    public void NewGame()
+    public void StartGame()
     {
         SceneManager.LoadScene(1);
+    }
+    public void ReturnToMenu()
+    {
+        SceneManager.LoadScene(0);
     }
 }

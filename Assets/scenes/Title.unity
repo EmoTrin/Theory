@@ -386,7 +386,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2112715399}
         m_TargetAssemblyTypeName: MainManager, Assembly-CSharp
-        m_MethodName: NewGame
+        m_MethodName: StartGame
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -978,7 +978,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 3c0930495834fb9439e9f0329c0fcd9e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d1e27d25c6b38e445886c1fd07deef0e, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
