@@ -8,6 +8,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream:Assets/Standard Assets/Characters/RollerBall/Prefabs/RollerBall.prefab
   - component: {fileID: 400000}
   - component: {fileID: 3300000}
   - component: {fileID: 2300000}
@@ -15,6 +16,13 @@ GameObject:
   - component: {fileID: 5400000}
   - component: {fileID: 11400000}
   - component: {fileID: 11400002}
+=======
+  - component: {fileID: 2729712388032113631}
+  - component: {fileID: 2729712388031343615}
+  - component: {fileID: 2729712388030212415}
+  - component: {fileID: 2729712388028288831}
+  - component: {fileID: 2729712388037629087}
+>>>>>>> Stashed changes:Assets/Prefabs/boss.prefab
   m_Layer: 9
   m_Name: RollerBall
   m_TagString: Player
@@ -110,6 +118,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+<<<<<<< Updated upstream:Assets/Standard Assets/Characters/RollerBall/Prefabs/RollerBall.prefab
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -138,3 +147,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: daa7e0829bc72c94babd728cc0466196, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+=======
+>>>>>>> Stashed changes:Assets/Prefabs/boss.prefab
