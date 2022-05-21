@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< Updated upstream:Assets/Scripts/MenuUI.cs.meta
-guid: 0e9141810476bd845907bfd07daf24d7
-=======
-guid: 0a69c595dda213f4bb3f014969956053
->>>>>>> Stashed changes:Assets/Scripts/BossEnemy.cs.meta
+guid: b12da1ba52d77094aa159997856c41c3
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
